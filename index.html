@@ -10,11 +10,13 @@
 <body>
   <h1>Sum Calculator</h1>
   <p>This program will sum number a and b</p>
-  <input type="text" placeholder="enter number a" />
+  <input id="numberA" type="text" placeholder="enter number a" />
   <br/>
-  <input type="text" placeholder="enter number b" />
+  <input id="numberB" type="text" placeholder="enter number b" />
   <br/>
-  <button>Calculate</button>
+  <button id="calculateButton" onclick="sumNumber()">Calculate</button>
+
+  <p id="result"></p>
   <script src="js/script.js" ></script>
 </body>
 
