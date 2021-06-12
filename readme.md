@@ -1,4 +1,4 @@
-Resource and info:
+### Resource and info:
 1. Introduction web
 2. Roadmap: https://roadmap.sh/
 3. Efficiency learning: reverse way
@@ -11,7 +11,7 @@ Resource and info:
     2. VSCode: https://code.visualstudio.com/download 
         1. File system, basic use
         2. Extension: Auto close tag, auto complete tag, prettier
-Excercise:
+### Excercise:
 1. Create a simple html page(with some style) allow user input 2 number and calculate a sum of it
 2. Page structure:
     1. A big title
@@ -19,7 +19,8 @@ Excercise:
     3. A button when user click it will calculate the sum of 2 number
     4. A text display the result
 Repo: https://github.com/andy3520/mentor-adam-web-basic 
-Challenge:
+
+### Challenge:
 1. Add more style to make it beautiful
 2. What about subtract, multiply, divide
 3. Combine all
